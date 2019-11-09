@@ -1,0 +1,45 @@
+{%include head.html%}
+
+<body>
+    {%include nav.html%}
+
+    <div class="container content">
+        <h1>Hyperlisk</h1>
+        <br>
+
+        <!-- CLI -->
+        <div class="term">
+            <p class="term-user">carter@website</p>
+            <p class="term-path">~/ $</p>
+            <p class="term-cat">cat about.txt</p>
+        </div>
+
+        <div class="md-content">
+            {{site.description}}
+            <br><br>
+            {{content}}
+            <div class="term">
+                <p class="term-user">carter@website</p>
+                <p class="term-path">~/&nbsp;$</p>&nbsp;ls&nbsp;./projects
+            </div>
+            {% for project in site.data.projects %}
+            <a href="{{project.url}}">{{project.name}}</a><br>
+            {% endfor %}
+            <br>
+
+            <!-- Contact section -->
+            {%for page in site.pages%}
+            {%if page.title == "Contact" %}
+            {{page.content}}
+            {%endif%}
+            {%endfor%}
+        </div>
+
+        <div class="term">
+            <p class="term-user">carter@website</p>
+            <p class="term-path">~/&nbsp;$</p>&nbsp;<span class="blinking-cursor">_</span>
+        </div>
+    </div>
+
+    {%include footer.html%}
+</body>

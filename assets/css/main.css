@@ -1,0 +1,143 @@
+body{
+    margin:0;
+    padding:0;
+
+
+
+    font-family: 'IBM Plex Mono', monospace;
+
+    font-family: 'IBM Plex Sans', sans-serif;
+
+    background-color:#002c37;
+    color: #7b8d94;
+}
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.content{
+    min-height: 100vh;
+    padding: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color:#002c37;
+
+}
+
+.table-fix {
+    overflow: auto;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    vertical-align: top;
+    
+}
+
+table th,
+table td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #dee2e6;
+}
+
+table tbody {
+    vertical-align: inherit;
+}
+
+table td {
+    border-bottom: 1px solid #dee2e6;
+}
+
+thead th {
+    color: #495057;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+img {
+    max-width:100%;
+}
+
+.centre{
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'IBM Plex Mono', monospace;
+    color: #f6f8f7;
+}
+
+a h5 {
+    color: #2aa096;
+}
+
+
+.term {
+    font-size: x-large;
+
+    
+}
+
+.term-user{
+    display: inline-block;
+    color: #50c0ff;
+}
+
+.term-path{
+    display: inline-block;
+    color: #01644f;
+}
+
+.term-cat{
+    display: inline-block;
+}
+
+.langs{
+    color: #7b8d94;
+}
+
+hr{
+    background-color:#7b8d94;
+}
+
+/* Animations */
+
+.blinking-cursor {
+    font-weight: 100;
+    font-size: 30px;
+    color: #2e3d48;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
+    font-family: 'IBM Plex Mono', monospace;
+    /* background-color: #f6f8f7; */
+    /* color: transparent; */
+  }
+  
+  @keyframes blink {
+    from,
+    to {
+        color: transparent;
+    }
+    50% {
+        color: #f6f8f7;
+    }
+  }
+  
+  @-moz-keyframes blink {
+    from,
+    to {
+        color: transparent;
+    }
+    50% {
+        color: #f6f8f7;
+    }
+  }

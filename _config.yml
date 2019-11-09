@@ -1,0 +1,33 @@
+
+title: Carter Tomlenovich
+email: cartertom@tuta.io
+description: >- # this means to ignore newlines until "baseurl:"
+  Hey! My name is Carter Tomlenovich, on the internet I go by Hyperlisk. I enjoy programming and
+  recording music. This website is all about my programming experience and contains a few things I need and
+  hopefully other things that some other people might find cool. A tutorial for a few languages, some mistakes
+  I've make along the way and some interesting things I have encoutered are going to be/have been documented on this site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: hyperliskdev
+github_username:  hyperliskdev
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+    #  - jekyll-redirect-from # https://github.com/jekyll/jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
