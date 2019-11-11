@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hey! My name is Carter Tomlenovich, on the internet I go by Hyperlisk. I enjoy programming and
   recording music. This website is all about my programming experience and contains a few things I need and
   hopefully other things that some other people might find cool. A tutorial for a few languages, some mistakes
-  I've made along the way and some interesting things I have encoutered will be documented on this site
+  I've made along the way and some interesting things I have encoutered will be <a href="/blog">documented</a> on this site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyperlisk.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hyperliskdev
