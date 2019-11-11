@@ -9,5 +9,5 @@ Lots of crazy math. I have no clue what is going on this this stuff. Heres an ad
 
 ## Excuse me?
 
-
+Linear-Quadratic Regulator or LQR, is a solution to the Optimal Control Theory.
 

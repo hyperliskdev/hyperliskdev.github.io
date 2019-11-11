@@ -24,6 +24,7 @@
             </div>
             {% for project in site.data.projects %}
             <a href="{{project.url}}">{{project.name}}</a><br>
+            <p> &emsp; - {{ project.desc }} </p>
             {% endfor %}
             <br>
 

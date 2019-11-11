@@ -10,9 +10,10 @@ body{
 
     background-color:#002c37;
     color: #7b8d94;
+
 }
 
-html, body {margin: 0; height: 100%; overflow: hidden}
+html, body {margin: 0; height: 100%;}
 
 .content{
     min-height: 100vh;
@@ -77,11 +78,8 @@ a h5 {
     color: #2aa096;
 }
 
-
 .term {
     font-size: x-large;
-
-    
 }
 
 .term-user{

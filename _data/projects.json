@@ -1,10 +1,12 @@
 [
     {
-        "name":"Hyperion",
-        "url":"https://github.com/retrax24/hyperion"
+        "name": "HyperEngine",
+        "url": "https://github.com/hyperliskdev/HyperEngine",
+        "desc": "A game engine created in java because I wanted too. "
     },
     {
         "name":"DeepVision",
-        "url":"https://github.com/frc5024/DeepVision"
+        "url":"https://github.com/frc5024/DeepVision",
+        "desc": "The vision system in place for 2019 game, Deep Space (5024)"
     }
 ]

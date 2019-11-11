@@ -1,4 +1,3 @@
-
 title: Carter Tomlenovich
 email: cartertom@tuta.io
 description: >- # this means to ignore newlines until "baseurl:"
@@ -7,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   hopefully other things that some other people might find cool. A tutorial for a few languages, some mistakes
   I've made along the way and some interesting things I have encoutered will be documented on this site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hyperlisk.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hyperliskdev
 github_username:  hyperliskdev
 
