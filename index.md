@@ -4,7 +4,7 @@ layout: home
 
 <!-- About -->
 
-#### Programming experience
+#### Programming Experience
 
 
 <div class="term">
@@ -12,12 +12,15 @@ layout: home
     <p class="term-path">~/ $</p>
     <p class="term-cat">cat exp.txt</p>
     <pre class="langs">
-    1  ---  3  ---  5  ---  7  ---  10
-    Zero Experience --> Most Experience
+    
+    |===================|
+    | Experience (1-10) |
+    |                   |
+    |   Java: 7         |
+    |   C++: 5          |
+    |   Python: 6       |
+    |===================|
 
-    Java: 7
-    C++: 5
-    Python: 7
     </pre>
 
 </div>
