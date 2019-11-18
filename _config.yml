@@ -18,6 +18,7 @@ plugins:
     #  - jekyll-redirect-from # https://github.com/jekyll/jekyll-redirect-from
   - jemoji
   - jekyll-mentions
+  - jekyll-seo
   - jekyll-admin
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
