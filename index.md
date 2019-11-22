@@ -16,13 +16,13 @@ layout: home
     |===================|
     | Experience (1-10) |
     |                   |
-    |   Java: 7         |
-    |   C++: 5          |
-    |   Python: 6       |
+    |   Java: 6         |
+    |   C++: 3          |
+    |   Python: 4       |
     |===================|
 
     </pre>
 
 </div>
 
-I have been programming since 2015, and have picked up many skills both in, and out of the field along the way, including Python, Java, C++, PHP, Embedded programming, Server management, and even CNC operation! 
+I have been programming since 2015, and have picked up many skills both in, and out of the field along the way, including Python, Java, C++, PHP, Embedded Programming, Server Management, and even CNC operation!

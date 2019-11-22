@@ -104,6 +104,13 @@ hr{
     background-color:#7b8d94;
 }
 
+pre {
+    padding: 5;
+
+}
+.highlight {
+    border-radius: 6.4545px;
+}
 /* Animations */
 
 .blinking-cursor {
