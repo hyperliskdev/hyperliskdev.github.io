@@ -1,0 +1,23 @@
+[
+    {
+        "name": "HyperEngine",
+        "url": "https://github.com/hyperliskdev/HyperEngine",
+        "desc": "A game engine created in java because I wanted too. "
+    },
+    {
+        "name": "zwm",
+        "url": "https://github.com/hyperliskdev/zwm",
+        "desc": "X-Server window manager to learn what x-server does."
+    },
+    {
+        "name":"DeepVision",
+        "url":"https://github.com/frc5024/DeepVision",
+        "desc": "The vision system in place for 2019 game, Deep Space (5024)"
+    },
+    {
+        "name": "Nintanks",
+        "url": "https://github.com/hyperliskdev/Nintanks",
+        "desc": "A remake of the Wii Play minigame."
+    }
+    
+]
