@@ -4,4 +4,4 @@ title: blog
 permalink: /blog/
 ---
 
-<h2> blog </h2>
+This is a list of my blog posts that explain some crazy stuff I've been doing or random stuff.

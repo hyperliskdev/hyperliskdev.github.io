@@ -7,7 +7,10 @@ permalink: /
 ---
 
 
-<h2>welcome</h2>
+<header class="post-header">
+    <h1>{{ page.title }}</h1>
+    
+</header>
 
 Hey! My name is Carter Tomlenovich, on the internet I go by Hyperlisk. I enjoy programming and
 recording music. This website is all about my programming experience and contains a few things I need and

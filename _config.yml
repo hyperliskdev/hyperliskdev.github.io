@@ -22,8 +22,8 @@ title: carter tomlenovich
 nick: hyperlisk
 email: cartertom@tuta.io
 description: >-
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyperlisk.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
 twitter_username: hyperliskdev
 github_username:  hyperliskdev
 
