@@ -7,3 +7,4 @@ categories: advanced-functions
 
 # What is factoring?
 
+empty page
