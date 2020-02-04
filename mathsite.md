@@ -11,5 +11,5 @@ This is a navigation page for all the math lessons I have been taught, weird que
 ### advanced functions
 
 <ul>
-    <li> <a href="/math/advanced/unit_one">factoring</a></li>
+    <li> <a href="/math/advanced/unit_one">Unit One</a></li>
 </ul>
