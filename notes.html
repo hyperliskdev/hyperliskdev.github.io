@@ -1,0 +1,22 @@
+---
+title: notes 
+layout: default
+---
+
+
+<h1>My notes from Trent University</h1>
+
+{% for subject in site.data.subjects %}
+<h2>{{subject.name}}</h2>
+
+<ul>
+    {% for note in site.notes %}
+        {% if note.categories contains subject.identifier %}
+    <li>
+        <h4><a href="{{ note.url }}">{{ note.title }}</a></h4>
+    </li>
+       {% endif %}
+    {% endfor %}
+</ul>
+
+{% endfor %}

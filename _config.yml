@@ -27,6 +27,10 @@ baseurl: ""
 twitter_username: hyperliskdev
 github_username:  hyperliskdev
 
+collections:
+  notes:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
