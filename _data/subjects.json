@@ -4,19 +4,19 @@
         "identifier":"chem"
     },
     {
-        "name": "COIS-1010H",
-        "identifier": "digwrld"
+        "name":"COIS-1010H",
+        "identifier":"digwrld"
     },
     {
-        "name": "COIS-1020H",
-        "identifier": "prog"
+        "name":"COIS-1020H",
+        "identifier":"prog"
     },
     {
-        "name": "FRSC-1100H",
-        "identifier": "canlaw"
+        "name":"FRSC-1100H",
+        "identifier":"canlaw"
     },
     {
-        "name": "MATH-1051H",
-        "identifier": "stats"
+        "name":"MATH-1051H",
+        "identifier":"stats"
     }
 ]
