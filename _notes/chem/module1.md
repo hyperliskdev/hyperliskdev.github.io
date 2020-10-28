@@ -23,7 +23,7 @@ This unit is called the Pascal (Pa)
 - Units
     - IUPAC: Standard Pressure = 100,000 Pa = 1 bar
     - mmHg: millimeters of mercury in a barometer = 1 Torr
-    - $ 1 Atm = 760 Torr = 101325 Pa = 101.325 kPa = 1.01325 $
+    - $ 1 Atm = 760 Torr = 101325 Pa = 101.325 kPa = 1.01325 bar = 14.6959 psi $
 
 <h3>The Gas Laws</h3> 
 
@@ -47,6 +47,8 @@ This unit is called the Pascal (Pa)
     - T is temperature in moles.
     - P is pressure
     - V is Volume
+    - R is the Gas Constant
+        - Equal to about $ 8.31432×10^3 $
 
 - Boyles Law:
     - If n and T are constant:
