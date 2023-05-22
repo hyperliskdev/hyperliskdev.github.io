@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-03-23 23:54:38 -0400
-categories: jekyll update
+title:  "Github Actions with pSQL and GraphQL: Part 1"
+date:   2023-05-21
+categories: github actions ci warehouse
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+To get started with some production concepts, I am going to setup a large ci operation for warehouse. This will contain jobs for ensure migrations are working, each of the services builds, all of the graphQL querys are consistent with what the api documenetaiton says and it interacts with other parts correctly etc...
 
-`YEAR-MONTH-DAY-title.MARKUP`
+With so many different individual parts, create CI might be difficult given that I can't run a consistent postgreSQL instance. (at least I couldnt find a way to for all of the jobs and yml files in github, so I leave that for a future dev environment project...) Each of the sections of warehouse will have its own jobs and testing space.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+For migrations, since they exist separate from all of the services, I can migrate them using a separate tool.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
