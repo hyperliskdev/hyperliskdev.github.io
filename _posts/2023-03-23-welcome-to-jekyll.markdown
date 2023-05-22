@@ -3,6 +3,7 @@ layout: post
 title:  "Github Actions with pSQL and GraphQL: Part 1"
 date:   2023-05-21
 categories: github actions ci warehouse
+thumbnail-img: /assets/img/gql.png
 ---
 
 To get started with some production concepts, I am going to setup a large ci operation for warehouse. This will contain jobs for ensure migrations are working, each of the services builds, all of the graphQL querys are consistent with what the api documenetaiton says and it interacts with other parts correctly etc...

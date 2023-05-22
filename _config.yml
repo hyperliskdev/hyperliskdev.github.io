@@ -20,11 +20,9 @@ author: Carter Tomlenovich
 ###############################################
 
 navbar-links:
-  About Me: "about"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "about"
+  Projects:
+    - warehouse: https://github.com/hyperliskdev/warehouse
 
 ################
 # --- Logo --- #
@@ -32,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
