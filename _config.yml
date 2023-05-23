@@ -23,7 +23,10 @@ navbar-links:
   About: "about"
   Projects:
     - warehouse: https://github.com/hyperliskdev/warehouse
-
+    - uaexon: https://github.com/hyperliskdev/uaexon
+    - sweet: https://github.com/hyperliskdev/sweet
+    - FaVNET: https://github.com/hyperliskdev/FaVNET
+    
 ################
 # --- Logo --- #
 ################
