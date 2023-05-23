@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Production Programming: Part 1"
+date:   2023-05-21
+categories: github actions ci warehouse production
+thumbnail-img: /assets/img/gql.png
+---
+
+This will be a blog series containing a bunch of information about the project warehouse and general production programming informations. I want to explore tons of different concepts with warehouse
+and with that, record some of the experience I have with tools like Kubernetes, Github Actions, GraphQL and lots of other things too.
+
+
+To get started on this, we will outline some of the learning goals I have for warehouse.
+
+- Understand how to manage a microservice production environment.
+- Understand production GraphQL and the development process for microservices.
+- Understanding data analytics for a product like warehouse
+
+tons more likely...
+
+
+An end product for warehouse would be likely a cloud provider of the service or the ability to self-host the microservices on a cluster and automatically manage things from there.
+
+
+
