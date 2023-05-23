@@ -10,6 +10,9 @@ I am currently pursuing a degree in Cybersecurity at flemig College. I have 3 ye
 
 I am currently open for remote work, you may contact me in the footer.
 
+I am comfortable with Java, C++ and Rust. I havent really focused on Frontend frameworks but I have worked with Elixir and have a project with typescript in the work.
+
+I am confident in my ability to learn new concepts quickly and have no problem asking for resources and help when I need it.
 
 
 
