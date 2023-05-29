@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: #0E8388;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -810,7 +810,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #2E4F4F;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -866,8 +866,8 @@ table tr td :last-child {
 
 code {
   padding: 0.125rem 0.25rem;
-  color: #c7254e;
-  background-color: #f9f2f4;
+  color: #0E8388;
+  background-color: #2E4F4F;
   border-radius: 0.25rem;
 }
 
@@ -890,11 +890,11 @@ pre {
 }
 .highlight > pre {
   background-image: linear-gradient(
-    rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
+    #CBE4DE, #CBE4DE 1.5em, #d7f0ea 1.5em, #bacfca 3em);
   background-size: auto 3em;
   background-position-y: 0.625rem;
-  border: 1px solid rgba(0,0,0,0.1);
-  border-left: 0.4375rem solid #444;
+  border: 1px solid #2E4F4F;
+  border-left: 0.4375rem solid #0E8388;
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
