@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Code Snippet #2"
-date:   2023-05-22
+date:   2023-06-14
 categories: python leetcode programming dynamic code coding 
 ---
 
