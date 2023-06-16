@@ -22,7 +22,7 @@ Basically, what is the smallest difference in nodes in the entire binary tree. I
 Here is that into python3 code.
 
 
-```
+```python
 def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         
         // Return the maxsize if no root node
@@ -47,6 +47,8 @@ def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
                 minDiff = diff
         
         return minDiff
+
+
 ```
 
 
