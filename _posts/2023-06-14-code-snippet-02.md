@@ -47,8 +47,6 @@ def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
                 minDiff = diff
         
         return minDiff
-
-
 ```
 
 
