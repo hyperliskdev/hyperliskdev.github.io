@@ -59,7 +59,7 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
   reddit: hyperlisk24
-  linkedin: carter-tomlenovich-a397a81a2
+  linkedin: carter-tomlenovich
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -126,17 +126,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#2C3333"
+navbar-text-col: "#CBE4DE"
+navbar-border-col: "#2E4F4F"
+page-col: "#2C3333"
+text-col: "#CBE4DE"
+link-col: "#0E8388"
+hover-col: "#0E8388"
+footer-col: "#2C3333"
+footer-text-col: "#CBE4DE"
+footer-link-col: "#0E8388"
+footer-hover-col: "#2E4F4F"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -150,7 +150,7 @@ footer-hover-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

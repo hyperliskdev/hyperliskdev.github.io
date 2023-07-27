@@ -10,7 +10,7 @@ As an introduction, I want to start doing Leetcode and other problem styles and 
 
 The first code snippet will be LeetCode #703 - Kth Largest Element in a Stream. The goal is to design a class called KthLargest with memebers k (kth largest) and nums (of this array).
 
-```
+```rust
 struct KthLargest {
     k: i32,
     nums: Vec<i32>
@@ -18,7 +18,7 @@ struct KthLargest {
 ```
 
 LeetCode gives us this impl for the KthLargest 
-```
+```rust
 impl KthLargest {
 
     fn new(k: i32, nums: Vec<i32>) -> Self {}
@@ -29,7 +29,7 @@ impl KthLargest {
 
 Basically, the concept of the solution seems straight forward. Use the new function to initalize a new KthLargest object and use the add function to apend a value to to nums array and then return the kth largest value in the array.
 
-```
+```rust
     fn new(k: i32, nums: Vec<i32>) -> Self {
         KthLargest {
             k,

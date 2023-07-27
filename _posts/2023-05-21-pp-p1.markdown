@@ -21,5 +21,3 @@ tons more likely...
 
 An end product for warehouse would be likely a cloud provider of the service or the ability to self-host the microservices on a cluster and automatically manage things from there.
 
-
-
