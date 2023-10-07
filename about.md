@@ -22,9 +22,8 @@ I am confident in my ability to learn new concepts quickly and have no problem a
 [FRC 5025](https://github.com/orgs/frc5024/repositories?page=2)
 
 C++ Robotics Programming
-- learned from a very experience software developer at Fanshawe College about the basics of C++ and C
-- used multiple libraries and C++ build technology like gradle for c++ and eclipse.
-
+- learned from an experienced software developer at Fanshawe College about the basics of C++ and C
+- used multiple libraries and C++ build technology like gradle for c++ in eclipse and vscode.
 
 Java Robotics Programming
 - Mix of self-taught and educated basics of Java. Creating mutiple involved Java projects to assist in developing the robot. (custom event logging, custom field and competition simulation tool and autonomous path generation tools)

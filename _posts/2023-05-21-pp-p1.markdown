@@ -9,7 +9,6 @@ thumbnail-img: /assets/img/gql.png
 This will be a blog series containing a bunch of information about the project warehouse and general production programming informations. I want to explore tons of different concepts with warehouse
 and with that, record some of the experience I have with tools like Kubernetes, Github Actions, GraphQL and lots of other things too.
 
-
 To get started on this, we will outline some of the learning goals I have for warehouse.
 
 - Understand how to manage a microservice production environment.
