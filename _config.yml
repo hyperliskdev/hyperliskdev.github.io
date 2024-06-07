@@ -21,9 +21,9 @@ author: Carter Tomlenovich
 
 navbar-links:
   About: "about"
+  Minecraft: "minecraft"
   Projects:
     - warehouse: https://github.com/hyperliskdev/warehouse
-    - uaexon: https://github.com/hyperliskdev/uaexon
     - sweet: https://github.com/hyperliskdev/sweet
     - FaVNET: https://github.com/hyperliskdev/FaVNET
     
