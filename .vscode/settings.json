@@ -5,5 +5,8 @@
             "scheme": "file",
             "pattern": "_posts/2023-07-24-understanding.md"
         }
+    ],
+    "cSpell.words": [
+        "autofilter"
     ]
 }

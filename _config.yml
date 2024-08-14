@@ -26,6 +26,7 @@ navbar-links:
     - warehouse: https://github.com/hyperliskdev/warehouse
     - sweet: https://github.com/hyperliskdev/sweet
     - FaVNET: https://github.com/hyperliskdev/FaVNET
+    - ts-ooxml: https://github.com/hyperliskdev/ooxml-ts
     
 ################
 # --- Logo --- #
@@ -58,7 +59,6 @@ social-network-links:
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
-  reddit: hyperlisk24
   linkedin: carter-tomlenovich
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
